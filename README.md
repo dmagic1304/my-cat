@@ -1,6 +1,6 @@
 # _My Cat_
 
-#### By _**Brian Dominik Magic**_
+#### By _**Dominik Magic**_
 
 #### _The application shares information abotu my cat_
 
